@@ -14,3 +14,7 @@
 ---
 include:
   - board: tk44
+  include:
+  - board: tk44
+  - board: tk44
+    shield: settings_reset
